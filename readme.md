@@ -25,7 +25,7 @@
 [![yt](https://img.youtube.com/vi/5Bkfc6cfgXg/0.jpg)](https://youtu.be/5Bkfc6cfgXg)
 <!-- https://youtu.be/5Bkfc6cfgXg -->
 (後來額外加了可以播放任意 youtube 影片的功能)
-![](https://i.imgur.com/BplrYBv.png)
+<!-- ![](https://i.imgur.com/BplrYBv.png) -->
 
 
 ## 程式與功能說明
